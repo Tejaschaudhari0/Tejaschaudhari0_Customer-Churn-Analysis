@@ -13,8 +13,13 @@ Developed a churn prediction model with X% accuracy using customer data. Created
 
 ## Dashborad :-
 ![Screenshot 2024-11-08 162551](https://github.com/user-attachments/assets/7c0ca0a1-be9e-4492-b064-fda25578d665)
+
+
 ![Screenshot 2024-11-08 162610](https://github.com/user-attachments/assets/fb0b8c45-2e11-4bb4-866e-8088e3944bf9)
+
+
 ![Screenshot 2024-11-08 162624](https://github.com/user-attachments/assets/042ee120-1b0e-4dde-a5ab-90482ae5d24e)
+
 
 ## Project Insight :-
 
