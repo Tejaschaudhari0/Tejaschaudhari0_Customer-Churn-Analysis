@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis Project
 
-Developed a churn prediction model with X% accuracy using customer data. Created a Power BI dashboard to identify at-risk customers and visualize churn patterns. Collaborated with marketing and sales teams to implement data-driven retention strategies, reducing the churn rate, increasing customer lifetime value, and optimizing the marketing budget for targeted campaigns.
+The project aims to enhance operational efficiency, boost revenue, and strengthen customer retention by (1) reducing tech support tickets to 0.5 per customer, (2) increasing sales of 1- and 2-year contracts by 5%, and (3) growing automatic payment adoption by 5% annually.
 
 ## Dataset
 - <a href= "https://github.com/Tejaschaudhari0/Tejaschaudhari0_Customer-Churn-Analysis/blob/main/02%20Churn-Dataset.xlsx">Dataset</a>
