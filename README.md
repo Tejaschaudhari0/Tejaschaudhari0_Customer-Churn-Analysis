@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis Project
 
 ## Dataset
-- <a herf= "https://github.com/Tejaschaudhari0/Tejaschaudhari0_Customer-Churn-Analysis/blob/main/02%20Churn-Dataset.xlsx">Dataset</a>
+- <a href= "https://github.com/Tejaschaudhari0/Tejaschaudhari0_Customer-Churn-Analysis/blob/main/02%20Churn-Dataset.xlsx">Dataset</a>
 
 ## Questions KPIs :-
 
